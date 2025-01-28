@@ -1,0 +1,27 @@
+.dp__theme_light {
+  --dp-background-color: var(--cui-body-bg);
+  --dp-text-color: var(--cui-body-color);
+  --dp-hover-color: var(--cui-primary-hover-bg);
+  --dp-hover-text-color: var(--cui-primary-hover-color);
+  --dp-hover-icon-color: var(--cui-primary-hover-color);
+  --dp-primary-color: var(--cui-primary);
+  --dp-primary-text-color: var(--cui-white);
+  --dp-secondary-color: var(--cui-secondary);
+  --dp-border-color: var(--cui-border-color);
+  --dp-menu-border-color: var(--cui-border-color);
+  --dp-icon-color: var(--cui-body-color);
+}
+
+.dp__theme_dark {
+  --dp-background-color: var(--cui-body-bg);
+  --dp-text-color: var(--cui-body-color);
+  --dp-hover-color: var(--cui-primary-hover-bg);
+  --dp-hover-text-color: var(--cui-primary-hover-color);
+  --dp-hover-icon-color: var(--cui-primary-hover-color);
+  --dp-primary-color: var(--cui-primary);
+  --dp-primary-text-color: var(--cui-white);
+  --dp-secondary-color: var(--cui-secondary);
+  --dp-border-color: var(--cui-border-color);
+  --dp-menu-border-color: var(--cui-border-color);
+  --dp-icon-color: var(--cui-body-color);
+}

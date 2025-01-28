@@ -1,0 +1,17 @@
+// Import styles
+@import "/node_modules/@coreui/coreui/scss/coreui.scss";
+@import "/node_modules/@coreui/chartjs/scss/coreui-chartjs.scss";
+
+// If you want to override variables do it here
+@import "./variables";
+
+// Vendors
+@import "./vendors/simplebar.scss";
+
+// Custom styles for this theme
+@import "./theme";
+
+// Add custom CSS
+@import "./custom";
+@import "./dark-mode";
+@import "./datepicker";
